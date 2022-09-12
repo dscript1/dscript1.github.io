@@ -1,4 +1,6 @@
-# dscript1.github.io
-# dscript1.github.io
-# dscript1.github.io
-# dscript1.github.io
+Desafio de encriptar palavras.
+Linguagens usadas:
+- HTML5
+- CSS3
+- JavaScript
+
